@@ -1,0 +1,3 @@
+crontab
+
+*/5 * * * * cd /Users/marinegreff/Desktop/ && /usr/bin/python vaccin.py
